@@ -1,0 +1,59 @@
+{
+	"head": {
+		"title": "A leaf way dream...",
+		"description": "Author:yuqing lin,Category: Find the truth of world.",
+		"favicon": "assets/favicon.png"
+	},
+	"intro": {
+		"title": "lin-sci",
+		"subtitle": "Unity of Knowing and Acting",
+		"enter": "enter",
+		"supportAuthor": true
+	},
+	"main": {
+		"name": "yuqing lin",
+		"signature": "Think & Dream & Code",
+		"avatar": {
+			"link": "assets/avatar.png",
+			"height": "80",
+			"width": "80"
+		},
+		"ul": {
+			"whole_first": {
+				"href": "https://blog.lin-sci.cn",
+				"icon": "rss",
+				"text": "Blog"
+			},
+			"whole_second": {
+				"href": "https://www.lin-sci.cn/algorithm",
+				"icon": "code",
+				"text": "Code"
+			},
+			"half_first": {
+				"href": "https://www.lin-sci.cn/reading",
+				"icon": "leanpub",
+				"text": "Reading"
+			},
+			"quarter_first": {
+				"href": "https://www.lin-sci.cn/cv",
+				"icon": "mars",
+				"text": "CV"
+			},
+			"quarter_second": {
+				"href": "https://github.com/yuqing-lin",
+				"icon": "github",
+				"text": "Github"
+			},
+			"quarter_third": {
+				"href": "https://space.bilibili.com/10404181",
+				"icon": "play",
+				"text": "bilibili"
+			},
+			"quarter_fourth": {
+				"href": "https://www.lin-sci.cn",
+				"icon": "ellipsis-h",
+				"text": "Waiting"
+			}
+		}
+	}
+}
