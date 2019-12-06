@@ -1,3 +1,9 @@
+## My personal home page generator.
+Template from [Tomotoes-Homepage](https://github.com/Tomotoes/HomePage)
+ChangeLog: 
+1. Localize js and css files
+2. Add font-awsome icon font
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yuqing-lin/personalpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
